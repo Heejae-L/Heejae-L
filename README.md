@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=이희재(Heejae-L)&fontSize=60)
 # Welcome my github profile ! 👋
 
-***Gachon University Student***
+***Backend Developer Student.***
 
 Birth : 2003.01.15
 <br/><br/>
