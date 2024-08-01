@@ -8,7 +8,6 @@ Hello I'm Heejae-L, I am majoring in artificial intelligence at Gachon Universit
 ***Backend Developer Student.***
 I'm interested in Springboot, java and computer vision. I'm currently learning Springboot and node.js. Looking for a job as a backend developer.
 
-Birth : 2003.01.15
 <br/><br/>
 
 ## 🏢 Education
