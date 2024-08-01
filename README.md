@@ -1,4 +1,5 @@
-# Welcome my github profile! I'm Heejae-L 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heejae-L&fontSize=60)
+# Welcome! I'm Heejae-L 👋
 
 ## Introduction
 
