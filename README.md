@@ -6,7 +6,7 @@
 Hello I'm Heejae-L, I am majoring in artificial intelligence at Gachon University in Korea.
 
 ***Backend Developer Student.***
-I'm interested in Springboot, java and computer vision. I'm currently learning Springboot and node.js. Looking for a job as a backend developer.
+I'm interested in Springboot, java and cloud computing. I'm currently learning Springboot,FastAPI and AWS. Also interested in AI. Looking for a job as a backend developer.
 
 <br/><br/>
 
