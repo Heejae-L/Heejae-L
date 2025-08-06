@@ -28,12 +28,15 @@ In parallel, I am actively developing interactive software using C# and WPF, fol
 
 ## 🚀 Skills
 
-<img src="https://img.shields.io/badge/JAVA-5382a1?style=flat&logo=JAVA&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVA-5382a1?style=flat&logo=Java&logoColor=black"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C%20Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/>
+
 
 
 ## Contact
