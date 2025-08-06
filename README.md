@@ -12,10 +12,6 @@ I have been exploring convolutional neural networks such as VGG, ResNet, and Den
 
 In parallel, I am actively developing interactive software using C# and WPF, following the MVVM architecture. This experience has strengthened my interest in software design patterns and scalable application development.
 
-Recently, I’ve also been expanding my interest into backend development, aiming to connect intelligent AI systems with robust real-world applications.
-
-Currently, I am pursuing a master's degree in Korea, with the goal of continuing AI research at the PhD level in the United States.
-
 
 <br/><br/>
 
