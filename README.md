@@ -5,8 +5,17 @@
 
 Hello I'm Heejae-L, I am majoring in artificial intelligence at Gachon University in Korea.
 
-***Backend Developer Student.***
-I'm interested in Springboot, java and cloud computing. I'm currently learning Springboot,FastAPI and AWS. Also interested in AI. Looking for a job as a backend developer.
+***I’m a student researching artificial intelligence..***
+Hello, I'm a student researcher passionate about artificial intelligence, especially deep learning and computer vision.
+
+I have been exploring convolutional neural networks such as VGG, ResNet, and DenseNet from scratch using PyTorch, with hands-on experience in model training, optimization techniques, and architecture design.
+
+In parallel, I am actively developing interactive software using C# and WPF, following the MVVM architecture. This experience has strengthened my interest in software design patterns and scalable application development.
+
+Recently, I’ve also been expanding my interest into backend development, aiming to connect intelligent AI systems with robust real-world applications.
+
+Currently, I am pursuing a master's degree in Korea, with the goal of continuing AI research at the PhD level in the United States.
+
 
 <br/><br/>
 
