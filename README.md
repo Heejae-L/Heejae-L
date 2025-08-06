@@ -43,7 +43,11 @@ In parallel, I am actively developing interactive software using C# and WPF, fol
 ## Social
 ***Velog***: https://velog.io/@heejae-l
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heejae-L&theme=flag-india&show_icons=true)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heejae-L)](https://github.com/Heejae-L/github-readme-stats)
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Heejae-L&theme=flag-india&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heejae-L&layout=compact&langs_count=6" height="180"/>
+</div>
+
 
