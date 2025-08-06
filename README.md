@@ -18,7 +18,9 @@ In parallel, I am actively developing interactive software using C# and WPF, fol
 ## 🏢 Education
 
 가천대학교 재학
-(2021.03~  )
+(2021.03 - 현재)
+하이비젼시스템 인턴
+(2025.07 - 현재)
 <br/><br/>
 
 ## Major
